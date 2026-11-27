@@ -77,8 +77,8 @@ sudo apt install -y git python3 python3-venv python3-pip
 Replace the URL below with the actual URL of this GitHub repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <REPOSITORY_FOLDER>/isai
+git clone https://github.com/niranjan22r-source/isai.git
+cd isai
 ```
 
 ### 3. Create and activate a virtual environment
@@ -125,8 +125,8 @@ ISAI does not include music files. Use music that you own or are legally permitt
 To work on the source code:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <REPOSITORY_FOLDER>/isai
+git clone https://github.com/niranjan22r-source/isai.git
+cd isai
 
 python3 -m venv .venv
 source .venv/bin/activate
