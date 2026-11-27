@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ISAI
+GenericName=Music Player
+Comment=Your music. Your space.
+Exec=/home/niranjnr/projects/isai/isai/launch.sh
+Icon=/home/niranjnr/projects/isai/isai/assets/icons/hicolor/256x256/apps/isai.png
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=Music;Audio;Player;ISAI;
+StartupWMClass=ISAI
