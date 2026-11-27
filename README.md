@@ -22,14 +22,6 @@ The current codebase includes components for:
 
 Some capabilities may depend on the current application version and system configuration.
 
-## Screenshots
-
-Add screenshots of the application here. For example:
-
-```markdown
-![ISAI main window](docs/screenshots/main-window.png)
-```
-
 ## Technology
 
 - **Language:** Python
