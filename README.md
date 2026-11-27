@@ -49,7 +49,7 @@ isai/
 └── README.md
 ```
 
-Generated folders such as `build/`, `dist/`, and `build-artifacts/` are build outputs and are not needed to run the application from source.
+Generated folders such as `build/`, `dist/`,and `build-artifacts/` are build outputs and are not needed to run the application from source.
 
 ## Installation
 
